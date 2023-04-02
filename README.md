@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diyar Altunakar</h1>
-<h3 align="left">About Me</h3>
+<h3 align="left">About Me:</h3>
 
 <p align="left">
 I'm a software developer with a passion for technology and learning new things.
